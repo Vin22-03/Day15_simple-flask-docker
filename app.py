@@ -38,7 +38,7 @@ def home():
     </head>
     <body>
         <div class="box">
-            <h1>👋 Hi, I’m Vin</h1>
+            <h1>👋 Hiii, I’m Vinay</h1>
             <p>Aspiring Cloud & DevOps Engineer</p>
             <p>Deployed using <strong>Jenkins + Docker + ECS</strong></p>
         </div>
