@@ -40,7 +40,7 @@ def home():
         <div class="box">
             <h1>👋 Hiii, I’m Vinay</h1>
             <p>Aspiring Cloud & DevOps Engineer</p>
-            <p>Deployed using <strong>Jenkins + Docker + ECS</strong></p>
+            <p>Deployed using <strong>⚙️ Jenkins + 🐳 Docker + Terraform + 📦 ECR + 🧱 ECS Fargate</strong></p>
         </div>
     </body>
     </html>
